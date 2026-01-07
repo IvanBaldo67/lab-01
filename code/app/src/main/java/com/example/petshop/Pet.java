@@ -4,7 +4,7 @@ import java.util.Date;
 
 public abstract class Pet {
     private String name;
-    private Date birhtDate;
+    private Date birthDate;
 
 
     public Pet(String name) {
